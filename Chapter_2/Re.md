@@ -1,6 +1,6 @@
 # 正则表达式元字符
 
-![image-20250121153530492](D:\VS CODE\Python\WebCrawler\MD_photots\image-20250121153530492.png)
+![正则表达式元字符](..\MD_photots\image-20250121153530492.png)
 
 `[ ]`中的`-`表示范围，例如`[1-9]`可以匹配1~9的各数字
 
@@ -32,16 +32,16 @@ if match:
 
 # 量词
 
-![image-20250121155538785](D:\VS CODE\Python\WebCrawler\MD_photots\image-20250121155538785.png)
+![量词](..\MD_photots\image-20250121155538785.png)
 
 # 贪婪匹配和惰性匹配
 
-![image-20250121161725912](D:\VS CODE\Python\WebCrawler\MD_photots\image-20250121161725912.png)
+![贪婪匹配和惰性匹配](..\MD_photots\image-20250121161725912.png)
 
 **注：默认为贪婪匹配**
 
-![image-20250121161805283](D:\VS CODE\Python\WebCrawler\MD_photots\image-20250121161805283.png)
+![示例](..\MD_photots\image-20250121161805283.png)
 
 # 使用
 
-![image-20250121171504781](D:\VS CODE\Python\WebCrawler\MD_photots\image-20250121171504781.png)
+![示例](..\MD_photots\image-20250121171504781.png)
